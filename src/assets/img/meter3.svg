@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204 204" width="204px" height="204px">
-  <linearGradient id="SVGID_1_" x1="32" x2="32" y1="-1599" y2="-1641" gradientTransform="matrix(1 0 0 -1 0 -1588)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="SVGID_1_" x1="102" x2="102" y1="-1599" y2="-1641" gradientTransform="matrix(1 0 0 -1 0 -1588)" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#1a6dff"/>
     <stop offset="1" stop-color="#c822ff"/>
   </linearGradient>
-  <path fill="url(#SVGID_1_)" d="M53,13c2.8,0,5,2.2,5,5v28c0,2.8-2.2,5-5,5H11c-2.8,0-5-2.2-5-5V18c0-2.8,2.2-5,5-5H53 M53,11H11	c-3.9,0-7,3.1-7,7v28c0,3.9,3.1,7,7,7h42c3.9,0,7-3.1,7-7V18C60,14.1,56.9,11,53,11L53,11z"/>
-  <linearGradient id="SVGID_2_" x1="40" x2="40" y1="22" y2="33.775" gradientUnits="userSpaceOnUse">
+  <path fill="url(#SVGID_1_)" d="M159,39c8.4,0,15,6.6,15,15v57c0,8.4-6.6,15-15,15H45c-8.4,0-15-6.6-15-15V54c0-8.4,6.6-15,15-15H159 M159,33H45c-7.8,0-14,6.2-14,14v57c0,7.8,6.2,14,14,14h114c7.8,0,14-6.2,14-14V54C173,39.2,166.8,33,159,33L159,33z"/>
+  <linearGradient id="SVGID_2_" x1="120" x2="120" y1="66" y2="101.325" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#6dc7ff"/>
     <stop offset="1" stop-color="#e6abff"/>
   </linearGradient>
-  <path fill="url(#SVGID_2_)" d="M42,42h-4c-2.2,0-4-1.8-4-4V26c0-2.2,1.8-4,4-4h4c2.2,0,4,1.8,4,4v12C46,40.2,44.2,42,42,42z M39,38h2 c0.6,0,1-0.4,1-1V27c0-0.6-0.4-1-1-1h-2c-0.6,0-1,0.4-1,1v10C38,37.6,38.4,38,39,38z"/>
-  <linearGradient id="SVGID_3_" x1="24" x2="24" y1="22" y2="33.775" gradientUnits="userSpaceOnUse">
+  <path fill="url(#SVGID_2_)" d="M126,126h-12c-6.6,0-12-5.4-12-12V78c0-6.6,5.4-12,12-12h12c6.6,0,12,5.4,12,12v48C138,120.6,132.6,126,126,126z M119,116h6c1.8,0,3-1.2,3-3V79c0-1.8-1.2-3-3-3h-6c-1.8,0-3,1.2-3,3v34C116,114.8,117.2,116,119,116z"/>
+  <linearGradient id="SVGID_3_" x1="72" x2="72" y1="66" y2="101.325" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#6dc7ff"/>
     <stop offset="1" stop-color="#e6abff"/>
   </linearGradient>
-  <path fill="url(#SVGID_3_)" d="M18,26v12c0,2.2,1.8,4,4,4h4c2.2,0,4-1.8,4-4V26c0-2.2-1.8-4-4-4h-4C19.8,22,18,23.8,18,26z M26,27v3.2 c0,0.7-0.6,1.1-1.2,1l-2-0.5c-0.4-0.1-0.8-0.5-0.8-1V27c0-0.6,0.4-1,1-1h2C25.6,26,26,26.4,26,27z M22,37v-1.2c0-0.7,0.6-1.1,1.2-1 l2,0.5c0.4,0.1,0.8,0.5,0.8,1V37c0,0.6-0.4,1-1,1h-2C22.4,38,22,37.6,22,37z"/>
+  <path fill="url(#SVGID_3_)" d="M54,78v48c0,6.6,5.4,12,12,12h12c6.6,0,12-5.4,12-12V78c0-6.6-5.4-12-12-12h-12C59.4,66,54,71.4,54,78z M66,79v9.6c0,2.1-1.8,3.3-3.6,3.1l-6-1.5c-1.2-0.3-2.4-1.5-2.4-2.8V79c0-1.8,1.2-3,3-3h6C64.8,76,66,76.2,66,79z M58,102v-3.6c0-2.1,1.8-3.3,3.6-3.1l6,1.5c1.2,0.3,2.4,1.5,2.4,2.8V102c0,1.8-1.2,3-3,3h-6C59.2,105,58,104.8,58,102z"/>
 </svg>
