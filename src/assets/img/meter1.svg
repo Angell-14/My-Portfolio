@@ -1,6 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="204" height="204" viewBox="0 0 204 204" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-percentage-70">
-  <path stroke="none" d="M0 0h204v204H0z" fill="none"/>
-  <path d="M102 25.5a76.5 76.5 0 1 1 -72.015 101.325l72.015 -25.325z" fill="currentColor" stroke="none"/>
-  <path d="M25.5 102a76.5 76.5 0 1 0 153 0a76.5 76.5 0 0 0 -153 0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="204" height="204">
+  <linearGradient id="SVGID_1_" x1="32" x2="32" y1="-1431" y2="-1473" gradientTransform="matrix(1 0 0 -1 0 -1420)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff"/>
+    <stop offset="1" stop-color="#c822ff"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M53,13c2.8,0,5,2.2,5,5v28c0,2.8-2.2,5-5,5H11c-2.8,0-5-2.2-5-5V18c0-2.8,2.2-5,5-5H53 M53,11H11	c-3.9,0-7,3.1-7,7v28c0,3.9,3.1,7,7,7h42c3.9,0,7-3.1,7-7V18C60,14.1,56.9,11,53,11L53,11z"/>
+  <linearGradient id="SVGID_2_" x1="40" x2="40" y1="22" y2="38.344" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff"/>
+    <stop offset="1" stop-color="#e6abff"/>
+  </linearGradient>
+  <path fill="url(#SVGID_2_)" d="M42,42h-4c-2.2,0-4-1.8-4-4V26c0-2.2,1.8-4,4-4h4c2.2,0,4,1.8,4,4v12C46,40.2,44.2,42,42,42z M39,38h2 c0.6,0,1-0.4,1-1V27c0-0.6-0.4-1-1-1h-2c-0.6,0-1,0.4-1,1v10C38,37.6,38.4,38,39,38z"/>
+  <g>
+    <linearGradient id="SVGID_3_" x1="24" x2="24" y1="22" y2="38.344" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6dc7ff"/>
+      <stop offset="1" stop-color="#e6abff"/>
+    </linearGradient>
+    <path fill="url(#SVGID_3_)" d="M25,42h-2c-0.6,0-1-0.4-1-1v-9.4c0-0.3,0.1-0.5,0.3-0.7l3.7-3.7V26h-7c-0.6,0-1-0.4-1-1v-2c0-0.6,0.4-1,1-1h7 c2.2,0,4,1.8,4,4v2.4c0,0.3-0.1,0.5-0.3,0.7l-3.4,3.4C26.1,32.7,26,33,26,33.2V41C26,41.6,25.6,42,25,42z"/>
+  </g>
 </svg>
-
